@@ -1,0 +1,7 @@
+{
+  "name": "puppeteer-practice",
+  "main": "src/index.ts",
+  "author": "YeonGyu-Kim <code.yeon.gyu@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
