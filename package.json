@@ -3,5 +3,8 @@
   "main": "src/index.ts",
   "author": "YeonGyu-Kim <code.yeon.gyu@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "puppeteer": "^10.4.0"
+  }
 }
